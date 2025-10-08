@@ -1,0 +1,13 @@
+{
+  "name": "obs-ticker",
+  "version": "1.0.0",
+  "description": "OBS 跑馬燈應用程式",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx serve .",
+    "dev": "npx serve . -l 3000"
+  },
+  "keywords": ["obs", "ticker", "marquee", "直播"],
+  "author": "Andrew",
+  "license": "MIT"
+}
